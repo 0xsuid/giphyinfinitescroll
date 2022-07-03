@@ -7,7 +7,7 @@ Built using [React](https://reactjs.org/), [Material UI](https://mui.com/), [Gip
 ## Requirements
 
 - Giphy [API key](https://developers.giphy.com/dashboard/) - [Documentation](https://developers.giphy.com/docs/api/)
-- Create rename .env.sample to .env & update `REACT_APP_GIPHY_API_KEY` with Giphy API key
+- Rename .env.sample to .env & update `REACT_APP_GIPHY_API_KEY` with Giphy API key
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
